@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "527a96fe4ca15a424b23da4fc6349cfb",
+    "revision": "c993f6db70dbb5175fd90ed6b94dff9d",
     "url": "/citizens-quiz/index.html"
   },
   {
-    "revision": "1f729d903ada2fa4ec88",
+    "revision": "75ee138463fe37d31387",
     "url": "/citizens-quiz/static/css/main.698963c1.chunk.css"
   },
   {
-    "revision": "caca5a17b4ea8245d6c7",
-    "url": "/citizens-quiz/static/js/2.6f0dc39d.chunk.js"
+    "revision": "f2c78ea4615e347c910a",
+    "url": "/citizens-quiz/static/js/2.af1d00a9.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/citizens-quiz/static/js/2.6f0dc39d.chunk.js.LICENSE.txt"
+    "url": "/citizens-quiz/static/js/2.af1d00a9.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1f729d903ada2fa4ec88",
-    "url": "/citizens-quiz/static/js/main.2dcc95cd.chunk.js"
+    "revision": "75ee138463fe37d31387",
+    "url": "/citizens-quiz/static/js/main.0f94b1be.chunk.js"
   },
   {
     "revision": "a9d0342e6008423b3200",
