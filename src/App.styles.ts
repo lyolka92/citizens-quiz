@@ -39,6 +39,16 @@ export const Wrapper = styled.div`
     margin: 0;
   }
 
+  .final_score {
+    color: black;
+    filter: drop-shadow(5px 5px rgb(255, 255, 255));
+    font-family: "GUERRILLA", "Comic Sans MS", sans-serif;
+    font-size: 350px;
+    font-weight: 700;
+    text-align: center;
+    margin: 0;
+  }
+
   h1 {
     color: black;
     filter: drop-shadow(2px 2px rgb(255, 255, 255));
