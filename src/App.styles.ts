@@ -39,21 +39,10 @@ export const Wrapper = styled.div`
     margin: 0;
   }
 
-  @font-face {
-    font-family: "GUERRILLA-Normal";
-    src: url("../public/fonts/guerrilla-normal.eot");
-    src: local("GUERRILLA Normal"), local("GUERRILLA"),
-      url("../public/fonts/guerrilla-normal.woff") format("woff"),
-      url("../public/fonts/guerrilla-normal.ttf") format("truetype"),
-      url("../public/fonts/guerrilla-normal.svg#GUERRILLA-Normal") format("svg");
-    font-weight: normal;
-    font-style: normal;
-  }
-
   h1 {
     color: black;
     filter: drop-shadow(2px 2px rgb(255, 255, 255));
-    font-family: "GUERRILLA-Normal", "Comic Sans MS", sans-serif;
+    font-family: "GUERRILLA", "Comic Sans MS", sans-serif;
     font-size: 80px;
     font-weight: 700;
     text-align: center;
